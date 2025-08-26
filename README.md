@@ -8,7 +8,6 @@
 
 Clone the repository and do following:
 
-**NOTE** : You can see the sample .env.example which will contain the environment variables. Replace the values with your own KEYS/SECRETS/URLs and rename the file to .env instead of .env.example
 
 ```bash
 # Install dependencies for server
@@ -28,8 +27,6 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
-
-**Note - If you wish to change the server port number from 5000 to say port 4000, then do the following small change in package.json file of the client folder.**
 
 
 
